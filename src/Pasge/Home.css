@@ -1,0 +1,24 @@
+
+.container{
+    margin-top: 200px !important;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+h3 {
+    font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+}
+
+
+/* .row img{
+    width: 250px;
+    height: 150px;
+    border-radius: 7px !important;
+} */
+
+.second-row{
+    margin-top: calc(18px + 6 * ((100vw - 320px) / 680));
+}
+
