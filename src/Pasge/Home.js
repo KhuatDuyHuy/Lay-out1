@@ -11,7 +11,7 @@ function Home() {
                   <div class="col px-sm-3 px-2"><a href="http://localhost:3000/giao-dich-rut-USDT/"><img src="https://i.imgur.com/6HeuTUE.jpg" class="img-fluid" /></a></div>
               </div>
               <div class="row second-row ">
-                  <div class="col px-sm-3 px-2"> <a href="https://www.youtube.com/channel/UCVIgJEnVBuQYaBspocZs_5w"><img src="https://i.imgur.com/aezmrTa.jpg" class="img-fluid" /></a>    </div>
+                  <div class="col px-sm-3 px-2"> <a href="http://localhost:3000/TraToken-Nha-Dau-Tu"><img src="https://i.imgur.com/aezmrTa.jpg" class="img-fluid" /></a>    </div>
                   <div class="col px-sm-3 px-2"><a href="https://in.pinterest.com/bbbootstrap/"><img src="https://i.imgur.com/S8zTP1V.jpg"  class="img-fluid" /></a></div>
                   <div class="col px-sm-3 px-2"> <a href="https://twitter.com/bbbootstrap"><img src="https://i.imgur.com/sJINfpF.jpg" class="img-fluid" /></a>    </div>
               </div>
